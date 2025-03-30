@@ -34,7 +34,7 @@ export default function ExtensionDownloader() {
 
   return (
     <MacWrapper wallpaper="/sequioa-wallpaper.jpg">
-      <div className="container py-6">
+      <div className="py-6 my-auto">
         <Card className="w-full bg-neutral-50">
           <CardHeader>
             <CardTitle className="text-2xl font-bold tracking-tight text-center">Dextension</CardTitle>
