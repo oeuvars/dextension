@@ -167,9 +167,9 @@ export default function ExtensionDownloader() {
             <h3 className="font-medium mb-2">Installation Steps:</h3>
             <ol className="list-decimal list-inside space-y-1 text-sm">
               <li>Generate and download the extension using the form above</li>
-              <li>Open Trae and navigate to the Extension Store</li>
+              <li>Open your editor and navigate to the Extension Store</li>
               <li>Drag the downloaded .vsix file to the Extension Store panel</li>
-              <li>Trae will automatically install the extension</li>
+              <li>Your editor will automatically install the extension</li>
             </ol>
           </CardFooter>
         </Card>
