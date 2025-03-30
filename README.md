@@ -1,6 +1,6 @@
 # Dextension
 
-![Dextension Screenshot](/public/dextension-screenshot.png)
+![Dextension Screenshot](https://github.com/user-attachments/assets/20bb6fe3-8d93-4544-b84f-0cb73a9ed704)
 
 ## Overview
 
