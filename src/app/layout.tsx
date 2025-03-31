@@ -2,6 +2,7 @@ import { Space_Grotesk } from "next/font/google";
 import { Metadata } from "next";
 import { IconBrandGithub, IconCode } from "@tabler/icons-react";
 import "./globals.css";
+import { Analytics } from "@vercel/analytics/react"
 
 const space = Space_Grotesk({
   subsets: ["latin"],
@@ -42,6 +43,7 @@ export default function RootLayout({
       <body
         className={`${space.className} flex flex-col min-h-screen`}
       >
+        <Analytics/>
         <main className="flex-grow">
           {children}
         </main>
